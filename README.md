@@ -4,3 +4,8 @@
 My name is Matt Ortiz, I am a senior and my major is Computer Science. 
 
 ![alt text](./assets/my_photo.PNG)
+
+## UX Journal
+
+[Apple Pay on PlayStation Store](PSStore-Journal.md)
+
