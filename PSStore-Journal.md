@@ -16,7 +16,7 @@ and I was able to finally complete my transaction.
 
 A UX concept I think the PS Store failed at here was **feedback**. The store did give me a message saying the process failed, but it did not tell me why. The only message was 
 "process failed". I was aware of that but it left me confused on whether the issue was with my card, something on their end, or a connection issue. 
-If I had received a better error message, I could have avoided trying multiple times saved myself some time. On a related note, I believe they also failed in **efficiency**. 
+If I had received a better error message, I could have avoided trying multiple times and saved myself some time. On a related note, I believe they also failed in **efficiency**. 
 Apple Pay was meant to save time, instead I spent more time than if I entered my information manually at the beginning. 
 
 A solution for the PS Store is to give a more detailed explanation as to what caused the failure. While some users may prefer the short error message, I believe they should add a 
