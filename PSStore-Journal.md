@@ -4,7 +4,7 @@ The other day I was trying to purchase a game on my PlayStation 5 using the Play
 of having to enter my card details manually. I thought this would be convenient since typing with a controller can be slow, so I decided to use the option. After selecting ApplePay,
 the store displayed an image to scan with my phone. 
 
-![PlayStation Store Apple Pay Checkout](assets/pic1.jpg)
+![PlayStation Store Apple Pay Checkout](assets/pic1.jpeg)
 
 I scanned it, and my phone showed the checkout details with all the correct information. I confirmed the purchase, my phone did the face scan, everything seemed to be going fine.
 It was loading the payment, then I received a "process failed" message and was returned to the payment options. This confused me as I use Apple Pay regularly, more often than 
